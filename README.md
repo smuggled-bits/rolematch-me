@@ -1,6 +1,6 @@
 ### RoleMatch.me
 
-####Convert job ads into job offers
+#### Convert job ads into job offers
 
 [RoleMatch.me](https://rolematch.me) is an online tool that helps you tailor your CV to better suit the jobs you're applying for.  
 To use the service, simply input your current resume and the job description you're interested in.  
